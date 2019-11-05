@@ -8,7 +8,8 @@
     "xrm": "bin/deploy.js"
   },
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",

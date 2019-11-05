@@ -332,6 +332,7 @@ ASALocalRun/
 .ntvs_analysis.dat
 node_modules/
 dist/
-bin/
 yarn-error.log
 .crmdeployconfig
+bin/*.*
+!bin/deploy.js
