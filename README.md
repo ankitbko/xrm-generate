@@ -1,7 +1,7 @@
 # xrm-generate
 Auto generate typescript files for XRM Entities. This is based upon https://www.npmjs.com/package/dyn365-deploy-cli
 
-https://www.npmjs.com/package/xrm-generate
+[![npm (tag)](https://img.shields.io/npm/v/xrm-generate/latest?color=green&style=for-the-badge)](https://www.npmjs.com/package/xrm-generate)
 
 ### Description
 
